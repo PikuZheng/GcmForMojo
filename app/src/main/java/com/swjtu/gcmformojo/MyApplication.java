@@ -44,8 +44,8 @@ public class MyApplication extends Application {
     final public static String KEY_TEXT_REPLY="key_text_reply";
 
 
-    final public static String mi_APP_ID = "2882303761517557334";
-    final public static String mi_APP_KEY = "5631755784334";
+    final public static String mi_APP_ID = "2882303761518096582";
+    final public static String mi_APP_KEY = "5321809692582";
 
     final public static String fm_APP_ID = "110370";
     final public static String fm_APP_KEY = "38b8c46a27c84d3881a41adf8aceb6f8";
